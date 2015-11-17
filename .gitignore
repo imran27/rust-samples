@@ -1,0 +1,4 @@
+racer/
+*.o
+*.so
+tmp*

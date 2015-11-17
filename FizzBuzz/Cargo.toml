@@ -1,0 +1,4 @@
+[package]
+name = "FizzBuzz"
+version = "0.1.0"
+authors = ["Imran Munshi <imunshi@ta-als.org>"]
